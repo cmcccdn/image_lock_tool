@@ -160,4 +160,4 @@ Tests run on macOS / Linux / Windows (no dependency on `winreg`).
 
 ## License
 
-Inherits the open-source license of the parent project `defaultapp_locker`.
+Apache License 2.0 — see [`LICENSE`](LICENSE).

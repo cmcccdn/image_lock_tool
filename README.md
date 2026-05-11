@@ -160,4 +160,4 @@ python test_core.py -v
 
 ## 许可
 
-继承父项目 `defaultapp_locker` 的开源许可证。
+Apache License 2.0 —— 详见 [`LICENSE`](LICENSE)。
