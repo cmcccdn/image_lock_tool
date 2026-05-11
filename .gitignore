@@ -1,0 +1,35 @@
+# macOS / editor noise
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.Python
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# PyInstaller / build
+build/
+dist/
+output/
+*.exe
+*.msi
+
+# Logs / runtime
+*.log
+
+# Local config overrides — runtime data should not ship
+config.local.json
